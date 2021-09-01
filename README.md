@@ -1,6 +1,6 @@
 # Olá pessoal! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = "30px">
 
-Meu nome é Linka Sofia, tenho 21 anos e sou acadêmica de Ciência da Computação na UFFS.
+Meu nome é Linka Sofia, tenho 22 anos e sou acadêmica de Ciência da Computação na UFFS.
 
 Minha tragetória:
 
